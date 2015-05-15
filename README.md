@@ -3,7 +3,6 @@
 
 #### TODO
 
-- [x] main functionality
+- [x] main functionality working (check, download, install)
 - [ ] add clean-up function
-- [ ] add feature to track aur packages
-- [ ]
+- [ ] add feature to track installed aur packages
